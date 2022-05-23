@@ -1,9 +1,9 @@
 # Social-Datasets
-A collection of social datasets
+A series of social recommendation datasets are collected and processed into atomic files for [RecBole-GNN](https://github.com/RUCAIBox/RecBole-GNN).
 
 Datasets information
 
-| SN | Dataset            | \#Users    | \#Items         | \#Links   | \#Interactions | Origin Link                                    |
+| SN | Dataset            | \#Users    | \#Items         | \#Links   | \#Interactions | Original Link                                  |
 |----|--------------------|------------|-----------------|-----------|----------------|------------------------------------------------|
 | 1  | Yelp1              | 17,237     | 38,342          | 143,765   | 204,448        |[diffnet](https://github.com/PeiJieSun/diffnet) |
 | 2  | Yelp2              | 16,239     | 14,284          | 158,590   | 198,397        |[HIN-Datasets-for-Recommendation-and-Network-Embedding](https://github.com/librahu/HIN-Datasets-for-Recommendation-and-Network-Embedding) |
